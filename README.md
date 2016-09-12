@@ -34,7 +34,6 @@ This document contains all of the applications specifics required to complete th
 
 === Using Github ===
 
-https://github.com/GSA/Crowdsource-Testing-Central-Artifact-Repository/wiki/Using-GitHub-for-GSA-Crowd-Source-Compatibility-Test-Cycle
-s-Document
+https://github.com/GSA/Crowdsource-Testing-Central-Artifact-Repository/wiki/Using-GitHub-for-GSA-Crowd-Source-Compatibility-Test-Cycles-Document
 
 
